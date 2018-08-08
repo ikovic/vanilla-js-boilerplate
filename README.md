@@ -9,4 +9,4 @@ Boilerplate contains just a blank project with a few generic things set up:
 
 ## Usage
 After cloning the repo, run `npm i` to install the dependencies. Only the following script is available:
-- `npm start` - defaults to `node index.js` for quick start
+- `npm start` - defaults to `node src/index.js` for quick start
