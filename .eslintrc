@@ -1,0 +1,17 @@
+{
+  "plugins": ["prettier"],
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": "warn"
+  },
+  "globals": {
+    "window": true,
+    "document": true,
+    "navigator": true
+  },
+  "extends": ["eslint:recommended"]
+}
